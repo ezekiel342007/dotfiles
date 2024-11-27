@@ -1,0 +1,17 @@
+abrt/
+dconf/
+fish/
+gh/
+godot/
+gtk-3.0/
+htop/
+ibus/
+imsettings/
+pavucontrol.ini/
+pulse/
+README.md/
+Thunar/
+user-dirs.dirs/
+user-dirs.locale/
+volumeicon/
+xfce4/
